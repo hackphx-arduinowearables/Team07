@@ -1,0 +1,30 @@
+{
+  "name": "wearable",
+  "version": "0.0.0",
+  "description": "hackathon project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Contra/wearable"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Contra/wearable/issues"
+  },
+  "homepage": "https://github.com/Contra/wearable",
+  "dependencies": {
+    "async": "~0.2.9",
+    "request": "~2.33.0",
+    "noble": "~0.2.7",
+    "node-foursquare": "~0.2.0",
+    "express": "~3.4.8",
+    "lodash": "~2.4.1",
+    "bluetooth-serial-port": "~1.0.5",
+    "ntwitter": "~0.5.0",
+    "sentiment": "~0.2.1"
+  }
+}
