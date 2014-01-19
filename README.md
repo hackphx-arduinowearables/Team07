@@ -37,6 +37,8 @@ A bluetooth based costume for the pirate hacker in all of us.
 
 #### Node.js
 
+[![strand](https://i.cloudup.com/G5DnRDC4FX-3000x3000.png)](https://www.youtube.com/watch?v=e-IWRmpefzE)
+
 - Twitter, foursquare, bluetooth, firehoses.
 
 ### What is this?
