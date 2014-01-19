@@ -35,6 +35,10 @@ A bluetooth based costume for the pirate hacker in all of us.
   - ![strand](img/greeting_card.jpg)
 
 
+#### Node.js
+
+- Twitter, foursquare, bluetooth, firehoses.
+
 ### What is this?
 
 All will be revealed in due time. Contain your excitement.
